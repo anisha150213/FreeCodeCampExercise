@@ -1,0 +1,2 @@
+# FreeCodeCampExercise
+Learning purpose
